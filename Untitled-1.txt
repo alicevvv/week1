@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">		
+<title>哈囉薇如</title>
+</head>
+<body>
+	<h1>賴薇如</h1> <h2>12月3日 射手座</h2>
+    <h3>國立臺北教育大學 數位科技與設計學系</h3>
+<h3>國立臺北教育大學 芝山親善大使 美宣長</h3>
+  <p></p>
+   <a href="https://www.facebook.com/profile.php?id=100002409254760">
+  <img src="照片/47049.jpg" ></a>
+  <h3>探索世界 散播快樂 勇往直前</h3>
+
+
+    <h3>但最愛的還是發懶</h3> 
+
+    <a href="https://www.google.com.tw/search?q=%E8%B2%93&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiX3N2VicHdAhUMyLwKHdHJBn4Q_AUICigB&biw=1280&bih=584">
+    最愛的動物</a>
+</body>
+</html>
